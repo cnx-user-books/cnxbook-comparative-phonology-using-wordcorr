@@ -1,0 +1,115 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Comparison - The Problem</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>38c9e85b-3bf0-4dc1-acf7-e62d08c34b71</md:uuid>
+</metadata>
+<content>
+<para id="id22389468">“Watson! I hoped you'd come soon!” Mr
+Sherlock Holmes greeted me as I came in the door, late in a Tuesday afternoon,
+October 9, 1888.</para>
+<para id="id22389495">I quickly replied, “I dropped in at the Science Museum, which now houses the old Patent Office Museum collections. Charles Babbage's plan for an analytical engine caught my eye. I'm afraid I lost all track of time, talking to the person who is putting together a working model. I also read about the efforts a generation ago of the Countess of Lovelace to direct its working by indicating the order in which its available operations are to proceed. Babbage's device could do much for us physicians!”</para>
+<para id="id22359947">“A perfect logical engine indeed, after my
+own heart!” exclaimed Holmes. “I must have a look myself some time.
+But not now: I have a telegram from the Foreign Office that they
+seek consultation on a matter. You'll stay, won't you?”</para>
+<para id="id22389309">Before I could answer we heard a horse and
+cab stop at the kerb, followed by a pull on the bell. Mrs Hudson
+brought the caller up.</para>
+<para id="id22389544">“Mr Sherlock Holmes, I presume? My name is Bond --
+Rupert Bond, on Her Majesty's service.”</para>
+<para id="id3380963">“Pray tell, Mr Bond, what brings you here.
+You may speak as confidently in front of Dr Watson as if you spoke to
+me alone. You are, I see by the healthy yet darkish tone of your
+skin, but newly returned from the tropics.”</para>
+<para id="id7070843">“From the Malay States, sir, whence I return
+next week. As you may know, the British East India Company has
+developed its enterprises there so well, that even the minor rajahs
+are now linking up with the Company in hopes of sharing in its
+prosperity.</para>
+<para id="id22392612">“The Company has been getting feelers from
+yet farther east, where Portugal dominates the Spice Islands and
+Holland would like to. And coming back to our English boiled mutton after
+savouring the fine cooking of the Malay States, I fully concur with
+Government's interest in extending our trade beyond its present
+limits.”</para>
+<para id="id22119397">“But what,” injected Holmes, “brings you to
+me?”</para>
+<para id="id22033755">Bond replied, “The Indies are thousands of
+islands, separated by dangerous channels. One trade route for us
+might go from Singapore to British North Borneo, on to the Straits
+of Makassar, thence south, then east, to the trading centers for
+spices. Less infested by pirates and Dutchmen than a straight run
+through the Java Sea, you know.</para>
+<para id="id22390151">“For a time, the Kingdom of Makassar on the
+southwest of the island of Celebes welcomed free trade. But over
+two centuries ago the freebooters of Bugis, across the peninsula
+from Makassar, joined the Dutch in taking over that unfortunate
+city. Now the Dutch control those straits.</para>
+<para id="id17836955">“South of Celebes lies Saleyer Island, a
+narrow piece of land separated by a deep and treacherous channel.
+It has long been a stopoff both for east-west and north-south
+travel. Our current interests lie to the east of there: Saleyer could be our
+stepping stone to the spice trade – if its people were to become
+convinced that we and Makassar are better partners than the Dutch
+and their allies.</para>
+<para id="id22377852">“To ascertain how strong the bond is among
+these three peoples, my superiors have urged me to look into the
+methods for comparing languages pioneered by a
+judge in the British Raj, over a century ago. If the language of
+Saleyer proves more like that of Makassar than like Buginese, could
+we not suppose a greater affinity among those peoples, that could
+open a door for us?”</para>
+<para id="id22480395">“But why,” rejoined Holmes, “why do you not
+rather ask this of a philologist, than of a detective?”</para>
+<para id="id22217410">“Because, sir, the academic mind, be it ever
+so finely tuned, is infernally slow about arriving at a conclusion; whereas you, sir, are
+renowned for digesting facts quickly and coming up with answers!
+Nor do I see that their use of logic is all that different from
+what I read about yours,” he said with a nod toward me. “I sail
+next week.”</para>
+<para id="id22217540">Holmes smiled slightly in agreement, and the other pulled from his
+pocket some sheets of paper. On them were written lists of words he
+had taken down from the three languages. The first sheet began like
+this:</para>
+
+<figure id="id21844105-2"><media id="idm8434128" alt=""><image src="../../media/Holmes-2.png" mime-type="image/png"/></media>
+<caption>From the Bond papers</caption>
+</figure>
+<para id="id22388762">“I regret the wear and tear that render these
+papers somewhat hard to read, but if you must know, I had to leave
+the area rather in haste,” said our guest. “I also realize that I
+do not know how to write foreign speech sounds, nor am I conversant
+with the International Phonetic Alphabet proposed recently, so my
+transcription is certainly at fault in places. For example, I
+believe the phoneticians would use a single symbol where I have
+used <foreign>ng</foreign> to represent the sound in English 'sing', and possibly
+capital <foreign>R</foreign> and small <foreign>r</foreign> for the sounds the Spaniards write with 'rr'
+and 'r' respectively. The apostrophe is for the hiatus that I
+believe philologists refer to as a glottal plosive.”</para>
+<para id="id22388786">“Pray give me till this same time tomorrow to
+see where this may lead,” said Holmes.</para>
+<para id="id22388792">“I shall,” said our visitor, and left.</para>
+
+<exercise id="idqml-1">
+
+ <q:item id="problem1" type="single-response">
+  <q:question>From looking at the first page of Mr. Bond's
+notes, which languages appear to you to be the most similar? Choose one possibility. We keep no record of your answers; you know better than we how to follow up on your results.</q:question>
+  <q:answer id="problem1-1">
+   <q:response>Makassar and Bugis</q:response>
+  </q:answer>
+   <q:answer id="problem1-2">
+   <q:response>Makassar and Saleyer</q:response>
+  </q:answer>
+  <q:answer id="problem1-3">
+   <q:response>Bugis and Saleyer</q:response>
+  </q:answer>
+  <q:answer id="problem1-4">
+   <q:response>Not enough evidence</q:response>
+  </q:answer>
+  <q:feedback>Think about how many of the forms on the sheet don't match up.</q:feedback>
+  <q:key answer="problem1-4"/>
+</q:item>
+</exercise>
+
+</content>
+</document>

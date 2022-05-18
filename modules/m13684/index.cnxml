@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Data panel</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f95d0350-7ac7-47d1-b241-b55d68289a83</md:uuid>
+</metadata>
+  <content>
+    <figure id="element-118"><media id="idm9638336" alt=""><image src="../../media/DataPanel.jpg" mime-type="image/jpeg"/></media>
+<caption>The Wordcorr Data panel</caption></figure><para id="delete_me">The Data panel is one of the seven action panels you can select by clicking on the tabs at the top of the Wordcorr display. It is where you type in and edit the word lists that contain the raw language data you plan to compare.</para><para id="element-237">The upper part of the Data panel has to do with managing <term>entries</term>, which contain words that mean approximately the same thing (like words for "canoe") in all the speech varieties in the collection. The lower part has to do with managing the individual data items for each variety.</para><note id="idm1835936">For linguists, "data" is a plural count noun, as in "the data are correct," with "datum" as its singular, as in "one datum is missing." For computer people, "data" is a singular mass noun, as in "the data is correct," with "datum" as the corresponding singular count noun and "datums" as the plural count noun for several pieces of data. Moral: it pays to be bilingual.</note><para id="element-721">So the buttons in the upper rows let you work with entries:</para><list id="element-790" list-type="bulleted"><item>Add: start a new entry at the end of the entry list, with obligatory primary gloss and optional secondary gloss</item>
+	<item>Delete Entry: delete the entry currently selected; in Figure 1, it's entry number 3 for "root"</item>
+	<item>Missing Data Check: tell whether any varieties, including the ones you can't see in the display in the lower right, are still not represented by data</item>
+<item>Previous: make the previous entry in the entry list on the left the current entry</item>
+<item>Next: make the following entry in the entry list on the left the current entry</item>
+<item>Find Gloss: find an entry by locating its primary gloss if you can't see it on the entry list</item></list><para id="element-831">The buttons in the middle right of the panel let you add and edit a datum for a specific variety:</para><list id="element-681" list-type="bulleted"><item>Add Datum: select a variety and type in a datum for it</item>
+	<item>Edit Datum: select a variety and edit the datum already there</item></list>   
+  </content>
+  
+</document>

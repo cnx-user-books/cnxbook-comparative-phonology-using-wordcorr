@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Data with phonetic characters using Easy IPA</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7df04c82-2423-43e2-8834-6dffbed3a0eb</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">You can type anything the International Phonetic Alphabet offers without having to lift your hands from the keyboard. Here's how Easy IPA works:</para><list id="element-790" list-type="enumerated"><item>Type the character from a to z that looks most like the character you want.</item>
+	<item>Type Control-space by putting your little finger on the Control key, and while holding it down, tap the space bar once with your index finger.</item>
+	<item>Look at the popup box that contains all the IPA characters that are kind of like the one you typed in Step 1.</item>
+<item>Choose the IPA character you want.</item>
+<item>Type the number or letter associated with it.</item>
+<item>The IPA character replaces the a to z character you typed.</item></list><para id="element-3">That's Easy IPA in a nutshell. Say you type an "a" to get an a-like vowel symbol such as ash (also called digraph). Then you type Control-space. Up come all the a-like characters:</para><figure id="element-787"><media id="idp10881280" alt=""><image src="../../media/01003TableFor a Ctrl-space.jpg" mime-type="image/jpeg"/></media>
+<caption>Characters kind of like <foreign>a</foreign> in Wordcorr's Easy IPA table.</caption></figure><para id="element-331">Ash is indexed as "2", so you type 2. It replaces the "a" you typed before the Control-space. If you wanted "a-breve" (not an IPA symbol, but comparative linguists use it anyway so we stuck it in the table) you'd type "c" to select it.</para><para id="element-684">For IPA modifiers and some other characters, you type certain characters outside the a-z range before you type Control-space:</para><list id="element-570" list-type="bulleted"><item>Glottal stop and similar characters: type <term>"?"</term> and Control-space.</item>
+	<item>Symbols for clicks: type <term>"!"</term> and Control-space.</item>
+	<item>Modifier characters: type <term>"^"</term> (Shift-6) and Control-space for some, <term>":"</term> (colon) and Control-space for others.</item>
+<item>Prosodic modifier characters: type <term>":"</term> (colon) and Control-space.</item></list><para id="element-784">For IPA diacritics that go under, above or through the base character proper:</para><list id="element-883" list-type="bulleted"><item>Diacritics that mainly go under the base character, type <term>","</term> (comma) and Control-space.</item>
+	<item>Diacritics that go above the base character, type <term>"~"</term> (tilde) and Control-space.</item>
+	<item>Diacritics that mainly go through the base character, type <term>"-"</term> (tilde) and Control-space.</item></list><para id="element-12">Or, on a single line: 
+<term>Ctrl-Sp after ? glottal; ! click; ^ : modifier; , ~ - diacritic</term>
+</para><figure id="element-307"><media id="idp10516768" alt=""><image src="../../media/Data-IPA.jpg" mime-type="image/jpeg"/></media>
+<caption>IPA transcriptions from the Wordcorr Data panel. Diacritical marks are not well aligned here, but they are elsewhere.</caption></figure><note type="Hint" id="idp11563568"><label>Hint</label>When you're typing in data, you don't use all the characters in the International Phonetic Alphabet. For the ones you use a lot, your brain quickly learns the motor sequence (like "a" Control-space "2" for ash). If you touch type, you'll soon find yourself touch typing the part of IPA you use without a blink. You don't even have to take your hands off the keyboard to look for a mouse or a reference card. <link document="col10339">Install</link> Wordcorr and give it a try.</note><note type="Programmers" id="idp10101744"><label>Programmers</label>If you'd like to use Easy IPA in an application of your own, the Open Source Java source code is on the SourceForge <link url="http://sourceforge.net/cvs/?group_id=63303">CVS</link> (anonymous access OK) as gui/input/IPAKeyListener.java. Please give credit to the National Science Foundation and <link url="http://www.wordcorr.org">Wordcorr</link>.</note>   
+  </content>
+  
+</document>

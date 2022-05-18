@@ -1,0 +1,10 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Collection titles</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0e9eb81b-ba51-4d17-a5e3-75bf3e72eb16</md:uuid>
+</metadata>
+  <content>
+    <figure id="element-379"><media id="idm9556944" alt=""><image src="../../media/Coll-Names.jpg" mime-type="image/jpeg" height="54"/></media>
+ <caption>Title and short title on the Collection panel of JG-SulSel12.</caption></figure><para id="delete_me">Every collection has a <term>title</term> that is useful for other linguists, like Austronesian or Southern Utoaztecan. The title indicates the spread of languages you are investigating.</para><para id="element-742">You prefix your <link document="m13468">Wordcorr ID</link> to the title with a hyphen. This heads off a potential bad situation where thirty Wordcorr users have thirty different collections all called “Austronesian,” and some of them are trying to collaborate with others.</para><para id="element-934">Wordcorr asks you for a <term>short title</term> for the collection, which also carries your Wordcorr ID prefix. This usually makes a good file name too, when you convert your Wordcorr database to an XML file for safekeeping or collaboration with another linguist. So a JG-Austronesian collection might have a short title like JG-AN that would readily identify it to any specialist in Austronesian languages.</para>   
+  </content>
+  
+</document>

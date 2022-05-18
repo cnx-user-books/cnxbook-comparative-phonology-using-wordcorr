@@ -1,0 +1,9 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Data editing</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>fc0e1aac-52de-48c5-9e47-6fc47b986a3b</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Oops! Made a mistake! How do I fix it on the fly?</para><para id="element-74">Your first line of defense, as with most computer programs, is your mouse or the arrow keys, together with the Backspace and Delete keys on your keyboard, which take out the character before or after the cursor respectively.</para><para id="element-582">If you select a block of characters to work with, then you also have the old standbys Control-X for cutting out the selection and putting it on the computer's clipboard, Control-C for copying the selection to the computer's clipboard without cutting it out, and Control-V for pasting in the latest contents of the clipboard where the cursor is, or where the selection is. There's a reminder near the bottom of the dialog box: <emphasis>^x=cut, ^c=copy, ^v=paste</emphasis></para><para id="element-398">There's also an <term>Edit Datum</term> button on the Data panel. First you have to select the datum you want to change by clicking on it in the grid below the button. Then click the button. The Edit Datum dialog box that comes up is the helpful twin of the Add Datum dialog box. It's filled in with whatever you've got already. After you've edited, click OK. If you click Cancel, Wordcorr will retain whatever it had before you opened the Edit Datum dialog box.</para><para id="element-985">Wordcorr isn't a word processor; it has more specialized things to do. So there's a tradeoff. You can type IPA faster in Wordcorr, and probably more accurately, than you can with your favorite word processor. You can't drag and drop to edit. But you can edit.</para>   
+  </content>
+  
+</document>

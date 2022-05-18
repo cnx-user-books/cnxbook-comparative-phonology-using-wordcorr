@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Variety sources</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1990ef4b-2105-4e9e-9d24-4e183b6322d8</md:uuid>
+</metadata>
+  <content>
+    <figure id="element-819"><media id="idp440736" alt=""><image src="../../media/Var-Sources.jpg" mime-type="image/jpeg"/></media>
+	<caption>Sources of information on one variety in the Varieties panel of Wordcorr.</caption></figure><para id="delete_me">Comparative word list data come from a variety of sources. Many linguists do their own field work, and get their word lists direct from native speakers of the varieties. Or information on different varieties may come from different books, monographs, or articles.</para><para id="element-981">Or both. Before you go to the field you may search the library for words from languages in the area you are going to visit, and set them up in Wordcorr. Then when you get there, you may expand or correct that information with unpublished information that you pick up on the spot, and you may add in varieties that have not been reported on by any other linguist.</para><para id="element-250">Other linguists are going to want to know just where the information on each variety came from. So you fill in the information as you start to work on each variety. If you need to augment it as you get more information, you can do that.</para> 
+<section id="var-unpubl"><title>Unpublished sources</title><para id="var-unpubl-1">Some of your data do not exist anywhere else in computer accessible form or even in print. Apply the journalist's "what, who, when, where, why, how" criteria judiciously to fill in this information. If one of your students were to visit the area two years from now, could they find the place where you collected your data? Could they find the person?</para><para id="element-998">Remember that the people who give you information may not be in a place where streets or street addresses have reached. I've collected data sitting in a canoe in the middle of a jungle river in Suriname. But I could find my consultant (if he's still alive) tomorrow, because I asked for and got quite a bit about his position in his society.</para><para id="element-296">Names can be a problem:</para><list id="element-175" list-type="bulleted"><item>Names may be closely guarded secrets</item>
+	<item>Names used openly in tense political situations may lead to reprisals</item>
+	<item>Names may change as people go through different phases of life</item></list><para id="element-381">What is important for the study of language change is not so much the names and identities of individuals themselves, but the sectors of society whose speech those individuals represent. Record</para><list id="element-199" list-type="bulleted"><item>Age (often estimated or pegged to some datable, memorable event)</item>
+	<item>Generation (child, unmarried young adult, childrearing generation, grandparental generation, ...</item>
+	<item>Sex</item>
+<item>Office held in local society when interviewed</item>
+<item>Clan, lineage, caste, or other social segment that might differentiate speech</item>
+<item>History of contact with other languages</item></list></section>
+<section id="var-publ"><title>Published sources</title><para id="var-publ-1">Much of what needs to be said about published sources for speech varieties has already been given in the discussion of published sources for <link document="m13635">collections</link>. Full bibliographic identification includes</para><list id="element-62" list-type="bulleted"><item>Author(s) or Editor(s)</item>
+	<item>Title</item>
+	<item>Series (if part of a series)</item>
+<item>Place of publication</item>
+<item>Publisher</item>
+<item>Year of publication</item>
+<item>Location of information within the work</item>
+<item>Location of information within an archive, if relevant</item></list></section>
+<section id="var-remarks"><title>Remarks on sources</title><para id="var-remarks-1">There is almost always some information that doesn't fit any of the standard bibliographic categories, or the electronic metadata specification, but that needs to be recorded somewhere. That's what the Remarks section is for.</para><para id="element-241">Field notes, for example, probably use nonstandard, idiosyncratic notations other than IPA, especially if they were transferred to a computer before about 2005. The Remarks field for each speech variety is the place to explain the notation; Remarks throughout Wordcorr are all activated to allow typing in complete IPA using Wordcorr's easy-to-use conventions laid out in the Help facility.</para><para id="element-692">Other things can go in Remarks as well: information about how to get to where the language is spoken, population estimates, information about where the data were collected if it wasn't in the homeland of the speech variety, common misunderstandings outsiders have about the variety or its speakers -- anything that might be of help to a colleague who might follow up on your work in the next few decades.</para></section>  
+  </content>
+  
+</document>

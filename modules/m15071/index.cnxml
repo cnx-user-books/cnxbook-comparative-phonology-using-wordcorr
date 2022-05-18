@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>What We've Covered</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0c1fd8a1-9c05-406b-9da6-bacec5ef8928</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">In the preceding sections you've acquired a vocabulary for talking about the elements of comparative phonology as manifested in Wordcorr -- Wordcorrspeak, we might call it. You have the concepts that define the framework in which Wordcorr operates:
+</para><list id="element-829" list-type="bulleted"><item>User</item>
+	<item>Metadata</item>
+	<item>Collection</item>
+	<item>Variety</item>
+	<item>Datum</item>
+	<item>Easy IPA</item>
+	<item>View</item>
+	<item>Backup</item>
+	<item>Export</item></list><para id="element-98">What you don't have yet are the operations at the heart of doing comparative phonology:</para><list id="element-641" list-type="bulleted"><item>Annotate</item>
+	<item>Tabulate</item>
+	<item>Refine</item>
+	<item>Share</item></list><para id="element-402">There's a reason for not going into them in a tutorial like this one. It's that they are best understood by loading up Wordcorr (details in the <link document="col10339">Installation tutorial</link>), going to the Wordcorr Web site (<link url="http://www.wordcorr.org">wordcorr.org</link>), and trying it yourself, using both the Web site and the Help facility that downloads with Wordcorr itself.</para>   
+  </content>
+  
+</document>

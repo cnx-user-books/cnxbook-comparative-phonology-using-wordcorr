@@ -1,0 +1,13 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Exporting part of a collection</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ea02607e-c344-4cf1-aa6f-a44165ff00a4</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">You will probably use Export XML (from the File menu) every day to back up your work. Exported files also serve as your main mode of communicating what you are doing to your colleagues. They contain</para><list id="element-923" list-type="bulleted"><item>Your personal metadata (essentials only)</item>
+	<item>Metadata about the collection</item>
+	<item>Metadata for each speech variety</item>
+<item>The entries that contain the raw data</item>
+<item>Each analytical view you have created, with its annotations and tabulation results</item></list><para id="element-18">But you may want to send only one of your analytical views along with the metadata and data. Export View XML, also on the File menu, lets you do that. It exports the view you are in when you invoke it, and ignores other views (except the Original view, because every collection has to have an Original view or Wordcorr won't work right).</para><note type="Caution" id="idp444736"><label>Caution</label>When you give a one-view export its file name, make sure it's NOT the same name as the complete collection! That could get you into trouble if you have an equipment failure and have to restore the collection from its current backup file. Instead of JG-SulSel for a one-view export, use a distinctive name like JG-SulSel-OneView or append the name of the specific view, like JG-SulSel-Reanalyze.</note><para id="element-790">There's a related Export command, Export Metadata XML. It's intended to pass along just the metadata for you, your collection, and the varieties in the collection. But it also includes the data and some other things.</para><para id="element-938">So it's best to ignore it until we clarify what we really need to do with it. Sorry for now.</para>   
+  </content>
+  
+</document>

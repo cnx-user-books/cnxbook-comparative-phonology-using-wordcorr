@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Wordcorr tools</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>81c13fdb-cdd3-4451-aa6c-b0ec4570a499</md:uuid>
+</metadata>
+<content>
+<para id="element-578">Here are some of the main things Wordcorr helps you with. There are other tools that will come up later, but these are the key functions.</para><para id="id13415343"><term>Enter Data</term>.
+Type in <term>word list</term>s for <term>comparative</term> analysis. The first word list establishes the sequence of <term>entries</term> for all the others. You have access to the complete <term>International Phonetic Alphabet</term> plus some other symbols. You can <term>edit</term> data after typing them in.</para>
+<para id="id13268570"><term>Define View</term>. Since alternate analyses of the
+same data are possible, you perform each analysis in a separate 
+<term>view</term>. You give each view a name, decide which 
+<term>speech varieties</term> of the 
+<term>collection</term> are to appear in the view and in what order, and
+the 
+<term>threshold</term> percentage of the varieties in the view that
+must contain a 
+<term>datum</term> in order to form a 
+<term>correspondence set</term>.</para>
+<para id="id13268609"><term>Annotate</term>. For each 
+<term>entry</term>, you examine the data and decide which words
+could plausibly have descended from the same ancestral form
+(usually called the 
+<term>protoform</term>, which you will endeavor to reconstruct). Each set of such words constitutes a 
+<term>group</term>, and each group gets a one-letter 
+<term>tag</term>. Within each group, you line up the 
+<term>segment</term>s that match each other, perhaps stretching the
+shape of some words by typing in the 
+<term>Indel</term> symbol "/" to indicate that either a new sound
+may have been inserted in some of the words that would otherwise
+match, or a sound may have dropped out at the point where you
+insert the symbol. There are some minor tools for annotation as
+well. All the words in a group must have the same number of
+symbols; but different groups in the same entry do not have to have
+the same number of symbols.</para>
+<para id="id13165756"><term>Tabulate</term>. Once all the groups in an entry are
+annotated, the groups with enough speech varieties entered to meet
+or exceed the view's threshold are taken up one at a time. Wordcorr
+transforms each group into <term>correspondence set</term>s. For each
+correspondence set, you indicate the probable 
+<term>protosegment</term> of the 
+<term>protolanguage</term> that the set represents, and
+indicate the phonological 
+<term>environment</term> in which it probably was situated within
+the protoform. At first these judgments are only educated guesses;
+but as you proceed, patterns you begin to recognize take shape to give an attested picture of how changes happened.</para>
+<para id="id13451049"><term>Refine</term>. As soon as a group is tabulated, its
+correspondence sets appear in the view's 
+<term>Results</term> structure, which is organized 
+<term>phonetically</term>, by the
+<term>place and manner</term> of articulation of the protosegments.
+You can 
+<term>refine</term> it there, moving things around, changing
+protosegments, environments, and orderings. You can also extract a
+summary of the evidence for your hypotheses about language change,
+print out the whole results structure, or extract just the raw
+data.</para>
+
+<exercise id="collection-tool-exercise">
+<q:item id="collection-tool" type="ordered-response">
+ <q:question>The word list data that you type into Wordcorr end up as __________ in the __________. (Click on the two answers in the order in which Wordcorr provides them.)</q:question>
+  <q:answer id="coll-tool1">
+   <q:response>varieties</q:response>
+   <q:feedback>Varieties are part of the data, not of the analysis.</q:feedback>
+  </q:answer>
+  <q:answer id="coll-tool2">
+   <q:response>protolanguage</q:response>
+   <q:feedback>As you do the analysis, you define the protolanguage.</q:feedback>
+  </q:answer>
+  <q:answer id="coll-tool3">
+   <q:response>results</q:response>
+  </q:answer>
+  <q:answer id="coll-tool4">
+   <q:response>Indel</q:response>
+   <q:feedback>Indel is an annotation symbol that guides the analysis, so it's related to the correct answer.</q:feedback>
+  </q:answer>
+  <q:answer id="coll-tool5">
+   <q:response>correspondence sets</q:response>
+  </q:answer>
+  <q:answer id="coll-tool6">
+   <q:response>group tag</q:response>
+   <q:feedback>Group tags guide the analysis, so they are related to the correct answer.</q:feedback>
+  </q:answer>
+  <q:hint>The outcomes of annotation and tabulation are kept for you in permanent form.</q:hint>
+  <q:feedback>The results from which you will deduce the form of the prolanguage and the changes that have taken place in the speech varieties consist of correspondence sets organized by protosegment and environment.</q:feedback>
+  <q:key answer="coll-tool5,coll-tool3"/>
+</q:item>
+</exercise>
+</content>
+</document>

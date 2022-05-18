@@ -1,0 +1,14 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Restoring from backup</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>cf93e1fa-9857-48cb-a02a-b76738d3d4ea</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">The previous module showed you how to make a backup file. It suggested that you always keep an electronic copy in a safe place, preferably on another continent.</para><para id="element-109">The acid test? A tsunami hits your field location and sweeps your house and your laptop out to sea. Fortunately, you were out of the way at the time. (No kidding; it happened to a friend of mine in pre-Wordcorr days.)</para><para id="element-359">Eventually you get another computer, another house, ... From there, the steps are</para><list id="element-472" list-type="enumerated"><item><link document="col10339">Download</link> and install the Wordcorr program. (If it's a new computer, you'll want to choose the First Installation option rather than the Upgrade option, since there's nothing in the new computer that you can upgrade.)</item>
+	<item>Have whoever keeps your backups send you the latest one as an email attachment.</item>
+	<item>Save it to your file system.</item>
+<item>Start Wordcorr, select the File menu, select Import XML.</item>
+<item>Select the directory where you saved your backup file, then select the file.</item>
+<item>Click the "Open" button.</item></list><para id="element-953">Your collection is restored to Wordcorr in a few minutes.</para><note id="idm8867616">I wish keeping backups for the rest of your computer were as straightforward. If you've kept your incremental backups in the same room as your computer, a Category Five disaster would wipe them out with it. But they might survive a lesser disaster.</note>   
+  </content>
+  
+</document>

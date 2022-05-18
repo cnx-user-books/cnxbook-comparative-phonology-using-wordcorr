@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Comparison - A Retrospection</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>09299ba0-b762-4568-b3ba-4885487c1032</md:uuid>
+</metadata>
+<content>
+<para id="id40513228">Sherlock Holmes must have slept at the
+Science Museum if at all, because he did not again make an appearance until
+Monday.</para>
+<para id="id40429944">“Look, Watson! We've got it!” he exclaimed as
+he threw his coat on the wicker chair. “Your friend Goodge is a marvel! He
+became as engrossed as I was in the problem. Furthermore he
+succeeded in communicating with Babbage's engine by punching holes
+in a certain way in pasteboard cards like those that control the
+Jacquard loom. The holes encoded instructions to the engine as to
+what to do.</para>
+<para id="id40645981">“See this? From the lists of words, also put
+into the engine by punching holes in pasteboard, he performed a
+simple manipulation. For each of the entries, he stacked up the
+words in the three languages, then sliced them the other way to get
+the sets of correspondences, each with a note on where in the word
+it came from.”</para>
+<table colsep="0" rowsep="0" id="id40645986" summary="">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<tbody>
+<row>
+<entry>Languages</entry>
+<entry>Words</entry>
+<entry/>
+<entry>Correspondences</entry>
+<entry>Position</entry>
+</row>
+<row>
+<entry>Makassar</entry>
+<entry>Rea</entry>
+<entry/>
+<entry>/ a /</entry>
+<entry>first in word</entry>
+</row>
+<row>
+<entry>Bugis</entry>
+<entry>area</entry>
+<entry>---</entry>
+<entry>R r R</entry>
+<entry>between vowels</entry>
+</row>
+<row>
+<entry>Saleyer</entry>
+<entry>Rea</entry>
+<entry/>
+<entry>e e e</entry>
+<entry>next to last</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>a a a</entry>
+<entry>last in word</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table>
+<para id="id40625585">“Then for each correspondence in turn, we
+added a symbol to show tentatively what sound in the earlier
+language the three corresponding sounds might have developed from.
+We developed a shorthand for position: for the first and last
+sounds in a word we used #_ and _#, the _ indicating where the
+sound in question stood vis-à-vis its neighbors. We also used C to
+represent any consonant and V any vowel, so that the middle two
+positions are recorded as V_V and _C# respectively.</para>
+<para id="id40625962">“Some sounds seem to have come into the languages later in
+time, or to have dropped out -- we can't yet tell which way it went. We put a slash “/” to match where this
+occurred. Similarly, we put a full stop “.” in correspondences where a
+comparable form was not present in one of the languages.</para>
+<para id="id40625970">“We noticed that some correspondences are
+quite common, like the a-a-a correspondence in the example. Others
+are quite rare. My friend Goodge came up with a mathematical formula by which a
+group of matching words could be recognized as highly consistent if
+every correspondence in the same group recurs plentifully in other entries, while if some
+of the correspondences are uncommon, his formula indicates a lesser degree of
+certainty.</para><para id="element-588">“So we began with the strongest correspondences, and used the picture they gave of the earlier language as a framework within which to locate the less well attested correspondences. By this means, most of the correspondences turned out to fit the picture well.</para><para id="element-859">“On the other hand, some correspondences fit not at all. We ended up regarding them as evidence, not for the historical development of the three languages, akin to genetic development, but nonetheless evidence for occasional dealings with speakers of still other languages like Malay and Portuguese, some of whose words passed over into the languages in the list in a most helter-skelter way.</para><para id="element-20">“Based on the evidence of the most broadly attested correspondences, we can inform Mr Bond that without a doubt, Saleyer and Makassar diverged from Bugis before they separated from each other. Words with strong attestation like <foreign>batu</foreign> 'stone', <foreign>bunga</foreign> 'flower', and <foreign>tunu</foreign> 'roast' are identical in all three languages, descended unchanged from a stage before the two-way split.</para><para id="element-957">“But by far, the evidence for the split is more interesting. There was an earlier sound that has come down in a number of words as “k” in Makassar and Saleyer, but “'”, the glottal plosive, in Bugis. It is found in forms like <foreign>kutu</foreign> and <foreign>'utu</foreign>, both meaning 'louse', whose u-u-u and t-t-t correspondences are widely attested, so their plausibility is high.</para><para id="element-903">“There is also a sound in Bugis that Mr Bond wrote as “i”, though I sincerely doubt that it sounds exactly like “i”. It invariably matches up with “a” in Makassar and Saleyer <foreign>sampulo</foreign>, Bugis <foreign>sippulo</foreign>, meaning 'ten'. It does not match with “i” as in <foreign>lima</foreign> 'five', which sounds the same in the three languages. I cannot explain it, but it is extremely regular.</para><para id="element-693">“And what I suspected earlier, that an original <foreign>nt</foreign> in Makassar <foreign>unti</foreign> 'banana' may have shifted to <foreign>tt</foreign> in Bugis <foreign>utti</foreign>, is also confirmed by the words for 'ten', as well as by Makassar and Saleyer <foreign>bintoeng</foreign> 'star' against Bugis <foreign>vittoeng</foreign>.</para><para id="element-707">“I needn't bore you with the details. The good Mr Babbage years ago developed a printing machine to go with his analytical engine, so the full details will go to Mr Bond. Please send him a telegram inviting him to stop by at his earliest convenience; then we shall wish him <foreign>bon voyage</foreign>.”</para><para id="element-658">And thus ended Sherlock Holmes's foray into philology. Once he had tracked down his clues and turned them into deductions, he lost further interest in the Babbage Analytical Engine and returned to his real passion, crime. But I hope Mr Goodge continues from there, lest the fruit of his labours be lost to philology.</para><note id="idm7640992">Unfortunately for the science of language, neither Holmes nor Goodge carried on with their efforts. Nor was Mr Bond heard of again after he arrived in Singapore, and his superiors feared the worst.
+
+It was not until just over a century later that the linguist Joseph Grimes began to follow a similar train of thought, having the benefit of a marvelously improved descendant of the Analytical Engine. The results can be examined through <link url="http://www.wordcorr.org">wordcorr.org</link>. For further information on the Babbage engine, Holmes, or Watson, consult <link url="http://en.wikipedia.org/wiki/%25s">Wikipedia.org</link>. There is more detailed information on Wordcorr itself in the modules that follow. The actual language data are from <cite><cite-title>Languages of South Sulawesi</cite-title></cite> by Charles E. Grimes and Barbara D. Grimes, from <cite><cite-title>Pacific Linguistics, Series D, No. 78</cite-title></cite>, 1987, with modifications in the representation of the words to fit the phonetic conventions of the late nineteenth century.</note>
+</content>
+</document>

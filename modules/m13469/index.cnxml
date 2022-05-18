@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The shape of collections</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>66fa8324-06e9-43db-82b2-8642b1f2d4ab</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Everything Wordcorr does is in the framework of a <term>collection</term>. You may have more than one collection, one for each family of languages you are working on. If your focus is research, you may spend most of your time on a single collection. If your focus is teaching, you are likely to keep a number of collections around for your students to work on.</para><para id="element-803">A collection consists of</para><list id="element-769" list-type="bulleted"><item>two or more possibly related speech varieties (like Buduma, Cibak, and so forth); you can't make comparisons with fewer than two</item>
+	<item>one or more entries, each containing words of about the same meaning (like words for 'cat' in one entry, 'sleep' in another, and so forth) ideally with data from each of the varieties, and the more entries the better</item>
+	<item>a full name for the collection (like "Chadic-Biu-Mandara")</item>
+	<item>a short name for the collection (like "ChadBM")</item>
+	<item>information about the collection as a whole</item>
+	<item>information about each speech variety</item>
+	<item>a file name under which the collection can be stored (usually the same as its short name)</item></list><para id="element-264">You have two main interests in the collection:</para><list id="element-329" list-type="bulleted"><item>the raw data, written phonetically (or phonemically if you are confident about the phonologies)</item>
+	<item>various analyses you make of the same data</item></list><para id="element-121">By the time you are ready to interact with other linguists, you will develop some other interests:</para><list id="element-302" list-type="bulleted"><item>documentation for where the various pieces of data came from, published or unpublished</item>
+	<item>accurate information on each of the speech varieties, either taken from the <link url="http://www.ethnologue.com">Ethnologue</link> or suitable for inclusion in the Ethnologue</item>
+	<item>names and Wordcorr IDs for every linguist who has worked with you</item>
+<item>names or other identifiers (like "70 year old man from Kabundu") for every speaker of one of the languages you cover who have given you data</item></list>   
+  </content>
+  
+</document>

@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Collection metadata</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>dec22cb2-4e9a-4310-a980-f9305b2eebca</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Identifying a Wordcorr collection is a lot like identifying a book in a library. Some of the information, as might be expected, is more aligned with electronic libraries than with traditional book publishing.</para><para id="element-823">Here are the different kinds of metadata (data about your data) that Wordcorr asks you for on the Collection panel:</para><list id="element-990" list-type="bulleted"><item>Names of the collection</item>
+	<item>Creator and collaborators</item>
+	<item>Glossing languages</item>
+<item>Description, key words, remarks</item>
+<item>Published sources</item>
+<item>Geographic coverage</item>
+<item>Permanence</item>
+</list>   
+  </content>
+  
+</document>

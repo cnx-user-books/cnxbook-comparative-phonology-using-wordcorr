@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Comparison - A Dawning Light</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c824a593-9ce0-490e-b50b-0ad07c84b3be</md:uuid>
+</metadata>
+<content>
+<para id="id40345121">When I came down to breakfast the next
+morning, Holmes was at his desk, a pile of foolscap in
+front of him and other sheets lying crumpled on the floor. “Well,
+Holmes,” I said. “Aren't you stirring rather early?”</para>
+<para id="id40281070">“Rather late, Watson. I started looking at
+the lists of words Mr Bond left us. Though the languages show a
+great similarity, deuce take me if I can find any consistency to
+it! I've been at it all night.”</para>
+<para id="id40322193">“Then I prescribe a couple of hours' quick
+sleep, followed by a hearty breakfast of eggs, ham, and coffee. I
+know you won't depart from the chase for any longer than that, but
+it will clear your brain. I'll ask Mrs Hudson to lay breakfast for
+you at half past nine.”</para>
+<para id="id40219826">He made himself comfortable on the couch. When he slept, I made arrangements for his breakfast. Then 
+I took up Bond's lists of words, and soon saw for myself
+that for whatever pattern I thought I discerned, an exception to it lay
+close at hand.</para>
+<para id="id40322198">Holmes awoke in due time. While we
+breakfasted, he laid out his frustrations to me. “Beastly things,
+Watson, these foreign languages! Yet I suppose were our own English laid
+alongside Dutch and German, we should find the same tangle. There
+is a consistency here, I swear; but it's woven through so many
+threads that even the most careful note-taking fails to capture it.
+If only I could follow thirty or forty trails at once!</para>
+<para id="id40210972">“For example, look at the first entry on the
+list. In all three languages the words begin with a <foreign>p</foreign> sound. From
+that we can deduce nothing about how the languages diverged, though
+it does suggest that the progenitor language used the <foreign>p</foreign>
+sound.</para>
+<para id="id40242939">“Examples like <foreign>ka'daro</foreign> 'husk' and <foreign>bunga</foreign> 'flower', in which
+all the sounds match perfectly in all three languages, also tell us nothing about
+differences, but they do expand the list of sounds that occur at
+the beginning, middle, or end of words, especially if we find the
+same correspondences elsewhere in the list.</para>
+<para id="id40256189">“Some of the entries don't seem to point to a
+common ancestor at all. 'Leaf,' for example, is <foreign>leko'</foreign> in Makassar, <foreign>daung</foreign> in Bugis, and <foreign>taha</foreign> in Saleyer. Since there are no similarities, it could indicate that
+the people Bond interviewed were simply thinking of different kinds
+of leaves. They might well have in their vocabularies words that
+match those of the other languages, but those words didn't come to
+mind in the situation. Or some of the words might be taken from still other
+languages, much as we English use words taken from French every day, to the disgust of the French.</para>
+<para id="id40256193">“But the entries where one word is similar to the others, yet not identical to them, raise interesting
+questions of how the languages may have changed with time. Look at the
+entry for 'banana'; the sounds <foreign>nt</foreign> in Makassar <foreign>unti</foreign> match a lengthened <foreign>tt</foreign>
+in Bugis <foreign>utti</foreign>, where the <foreign>n</foreign> sound in that position may have taken on the properties of its
+neighbor. We don't know where Saleyer stands on that one, because
+they use a different word, but as we comb through more entries,
+that may become clear.</para>
+<para id="id40256174">“The entry for 'grass' suggests the same sort
+of thing: <foreign>Rea</foreign> in Makassar and Saleyer, <foreign>area</foreign> in Bugis. Either Bugis has added a prefix <foreign>a-</foreign>, or an initial <foreign>a</foreign> has
+disappeared, so we must keep on the lookout for other evidence of
+the same process.”</para>
+<para id="id40053924">“But Holmes,” I exclaimed, “you've said
+several times already that we need to track similar kinds of change
+through many cases, and every one of them may seem equally
+tenuous!”</para>
+<para id="id40053932">“Tenuous, yes, my friend. But though one
+correspondence by itself be light as gossamer, enough similar cases
+may weave a strong fabric indeed,” said Holmes.</para>
+<para id="id40157061">I answered, “Then that must be what kept you
+up all night, the thirty or forty trails you spoke of trying to
+follow.”</para>
+<para id="id40157070">“Exactly, Watson. And now that you mention it, a new
+thought comes to mind!</para>
+<para id="id40157075">“What if we could harness the power
+of Babbage's analytical engine to keep track of all that for us! Quick, write off
+some notes for yourself on what we have been saying, while I
+prepare to make off with the whole manuscript to the Science
+Museum!</para>
+<para id="element-106">“You, meanwhile, will await our Foreign Office friend and
+explain to him that I have a lead that may indeed provide him a
+trustworthy answer. But I will have to strain my intellect to the
+utmost, if I am to bridge the gaps in our generation's
+understanding of the Analytical Engine, that it may become the
+means by which we reach our solution.</para><para id="id40157080">“The name of this person who is constructing
+an Analytical Engine from Mr Babbage's notes? I shall enlist his aid.”</para>
+<para id="id40345152">“Hamilton Goodge is the name,” I told him. “A
+young man, well prepared in mathematics, and quite at home in his
+maze of levers and wheels. You know the type.”</para>
+<para id="id40345160">So I remained in the upper-story flat we
+shared at 221B Baker Street, and was able to give Mr Bond the news
+that Holmes's chase was afoot, this time in the workshop of a
+museum rather than in the moors of Scotland or the opium dens along
+the Thames. I went over my notes with him on the specifics Holmes
+had already noticed.</para>
+<para id="id40345170">And Holmes? Never a word from him the rest of
+the week. Bond went down on the Friday to see what was happening at
+the Museum, but Holmes refused to see him, so intent was he on formulating the exact
+instructions he must give the Analytical Engine in order to get the
+answers he needed.</para>
+<exercise id="problemsecond">
+ <q:item id="problem2" type="multiple-response">
+  <q:question>Which forms might tell us how the languages have changed? Choose at least one:</q:question>
+  <q:answer id="problem2-1">
+   <q:response>husk</q:response>
+  </q:answer>
+   <q:answer id="problem2-2">
+   <q:response>flower</q:response>
+  </q:answer>
+  <q:answer id="problem2-3">
+   <q:response>leaf</q:response>
+  </q:answer>
+  <q:answer id="problem2-4">
+   <q:response>banana</q:response>
+  </q:answer>
+  <q:answer id="problem2-5">
+   <q:response>grass</q:response>
+  </q:answer>
+  <q:feedback>Some don't give evidence for anything. Some give evidence for what the ancestral language was like. Some give evidence for changes that have taken place.</q:feedback>
+  <q:key answer="problem2-4,problem2-5"/>
+</q:item>
+</exercise></content>
+</document>

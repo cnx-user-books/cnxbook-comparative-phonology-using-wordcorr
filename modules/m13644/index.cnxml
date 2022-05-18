@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>The shape of speech varieties</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7b338cb7-1c9c-4daa-beb3-7f6b4c6487d1</md:uuid>
+</metadata>
+<content>
+<section id="var-lang">
+<title>Languages and Dialects</title>
+<para id="id17066708">Wordcorr helps you compare different speech varieties. People often want to know if these are "languages" or "dialects." But it makes better sense to think about that distinction after we have done the analysis, rather than making it the starting point.</para>
+
+<note type="Caution" id="idm3196096"><label>Caution</label>Many people think "languages" must be the way powerful people speak, and "dialects" must be the way people without power speak. From the linguistic side, however, a more useful distinction is whether people who speak differently can or can't understand each other inherently, without going to the trouble of learning each other's languages. Looked at linguistically rather than politically, if people who speak differently understand each other solely on the basis of the similarity of their mother tongues, they speak different dialects of the same language, whether the dialects are prestigious or not. And if they don't understand each other, they speak different languages. The implications of this distinction for education are far-reaching.</note><para id="id17066747">So when the ordinary speech of two social groups is different enough to notice, we can say they speak different <term>speech varieties</term>. That's a usefully neutral term -- we can use it without having to argue about whether the varieties should be called separate languages or dialects. Later, we should have enough information to state the ways in which they differ, and how each got to be the way it is. At that point both politics and inherent intelligibility can reasonably come into the picture.</para>
+<para id="id17066756">Wordcorr comes in at the stage of 
+identifying the systematic, regular differences among speech varieties.</para>
+</section>
+<section id="var-name">
+<title>What We Track</title>
+<para id="element-934">Some of the things that need to be kept track of for each speech variety are</para><list id="element-795" list-type="bulleted"><item>There is a standard set of codes for nearly all the world's languages, reducing confusion when one speech variety has different names in different countries</item>
+<item>Different languages may have the same name</item>
+	<item>Many languages have more than one name</item>
+<item>Languages may also have conventionalized short names (somewhat like nicknames) and abbreviations</item>
+	<item>Languages are often identified by the place where they are spoken</item>
+<item>Word lists in a collection may come from both published and unpublished sources</item>
+<item>The transcription of every word list needs to be explained unless it's true IPA</item></list><para id="id17066768">Wordcorr collections are arrangements of parallel word lists from speech varieties you want to compare. Accordingly, you have to give Wordcorr enough information via the Varieties panel to not get any two of the varieties mixed up. This information that is kept in Wordcorr, or <term>metadata</term> (data about data), is also the key to letting other linguists know what is in your collection, so that you can possibly get together and collaborate on the analysis.</para><note id="idm431632">We can thank William O. Bright, editor of the first edition of Oxford University Press's <cite><cite-title>International Encyclopedia of Linguistics</cite-title></cite>, 1992, for insisting on the term "speech variety" as replacement for the traditional "language" vs. "dialect," which often generated heat rather than light.</note>
+
+</section>
+</content>
+</document>
